@@ -1,3 +1,4 @@
 Another text file
 more lines; forgot to add more
 adding lines
+check
